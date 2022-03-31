@@ -1,0 +1,10 @@
+name: "qdomyos-zwift for Hassio"
+description: "qdomyos-zwift for Hassio"
+version: "1.0.0"
+slug: "qdomyos-zwift_hassio"
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
